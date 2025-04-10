@@ -1,0 +1,6 @@
+Flask
+gspread
+google-auth
+pandas
+matplotlib
+openpyxl
